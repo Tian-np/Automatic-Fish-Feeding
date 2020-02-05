@@ -32,7 +32,7 @@ URL : https://www.youtube.com/watch?v=Tpnlty0UGdk<br>
 ## Team Members
 |  |ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
 |:-:|--|------|---------------|---------|
-|![](IMG/61070044.jpg)|ณภัทร|พรบุญเรือง|[@61070044](https://github.com/61070044)|61070044|
+|![](IMG/61070044.jpg)|ณภัทร|พรบุญเรือง|[@tianny-np](https://github.com/tianny-np)|61070044|
 |![](IMG/61070065.jpg)|ทศวรรษ|จันทะพิทักษ์|[@jfornqz](https://github.com/jfornqz)|61070065|
 |![](IMG/61070084.jpg)|ธรรมสรณ์|ตันติยาภินันท์|[@tangtms](https://github.com/tangtms)|61070084|
 |![](IMG/61070087.jpg)|ธิติวุฒิ|โตสงวน|[@l3luehunter](https://github.com/l3luehunter)|61070087|
